@@ -35,3 +35,4 @@ initialization: 2
 initialization: 3
 initialization: 4
 ```
+Цикл `for` удобно использовать, когда известно заранее количество повторений.
